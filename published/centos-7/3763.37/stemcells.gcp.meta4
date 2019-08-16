@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-3763.37-google-kvm-centos-7-go_agent.tgz">
+    <hash type="sha-512">f2135dcbbe34b16bf10bc1aeeca467cfdcf9c340b55e0c7fa9e2dfd52ff7c5ea238ae45dde0033f62e7f85164ee4860ed83b8bb5f0c0407fc6b0d73462d268ad</hash>
+    <hash type="sha-256">21089f129ed8c024fb35a9e71b95280b3087c40468f21564b9b4d0407f0a24aa</hash>
+    <hash type="sha-1">40878954f59ccbf4f3384a51a251010c33539e03</hash>
+    <hash type="md5">465506310cd833b4c4152ac34d14254d</hash>
+    <size>17969</size>
+    <url>https://s3.amazonaws.com/bosh-gce-light-stemcells/3763.37/light-bosh-stemcell-3763.37-google-kvm-centos-7-go_agent.tgz</url>
+    <version>3763.37</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2019-08-16T21:41:48.696435456Z</published>
+</metalink>
