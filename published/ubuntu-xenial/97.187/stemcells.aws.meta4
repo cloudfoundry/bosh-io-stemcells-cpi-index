@@ -5,7 +5,7 @@
     <hash type="sha-1">69a81c80215fe69694976cd5310701cf73839bc9</hash>
     <hash type="md5">9e27e526a09e8e0081aa4a661b221d99</hash>
     <size>19858</size>
-    <url>https://s3-accelerate.amazonaws.com/bosh-aws-light-stemcells/97.187/light-bosh-stemcell-97.187-aws-xen-hvm-ubuntu-xenial-go_agent.tgz</url>
+    <url>https://bosh-aws-light-stemcells.s3-accelerate.amazonaws.com/97.187/light-bosh-stemcell-97.187-aws-xen-hvm-ubuntu-xenial-go_agent.tgz</url>
     <version>97.187</version>
   </file>
   <generator>metalink-repository-resource/0.0.0</generator>

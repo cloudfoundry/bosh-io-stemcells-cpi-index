@@ -5,7 +5,7 @@
     <hash type="sha-1">4951758964df00df61fcdb4666629bef890441c5</hash>
     <hash type="md5">8cfcea3fac4aa27af5b34574941503aa</hash>
     <size>20839</size>
-    <url>https://s3-accelerate.amazonaws.com/bosh-gce-light-stemcells/315.126/light-bosh-stemcell-315.126-google-kvm-ubuntu-xenial-go_agent.tgz</url>
+    <url>https://bosh-gce-light-stemcells.s3-accelerate.amazonaws.com/315.126/light-bosh-stemcell-315.126-google-kvm-ubuntu-xenial-go_agent.tgz</url>
     <version>315.126</version>
   </file>
   <generator>metalink-repository-resource/0.0.0</generator>
