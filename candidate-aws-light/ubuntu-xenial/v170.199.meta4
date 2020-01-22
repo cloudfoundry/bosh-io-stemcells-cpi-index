@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-170.199-aws-xen-hvm-ubuntu-xenial-go_agent.tgz">
+    <hash type="sha-512">29ec274f4a4f5ba586372dc5977133bc79a6062942c69bf44004b1376beaf99b832ff6a3a54d37f6535a5d392894518bcc933924eb694c4de05c1432de5539fe</hash>
+    <hash type="sha-256">9900c897db22bc2b7bc78defe4c4e6b1f706e7929ec9315e7ef386e64e82790f</hash>
+    <hash type="sha-1">3f5da6b2b44927538fae9fc432dcc936d9e8ffe7</hash>
+    <hash type="md5">72a6c92a9936068f85ce72c0a8e7259e</hash>
+    <size>19963</size>
+    <url>https://s3.amazonaws.com/bosh-aws-light-stemcells-candidate/170.199/light-bosh-stemcell-170.199-aws-xen-hvm-ubuntu-xenial-go_agent.tgz</url>
+    <version>170.199</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2020-01-22T06:34:43.601684917Z</published>
+</metalink>
