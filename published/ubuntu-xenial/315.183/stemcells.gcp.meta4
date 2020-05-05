@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-315.183-google-kvm-ubuntu-xenial-go_agent.tgz">
+    <hash type="sha-512">7cc9ec48cbc099b59e405d4aa799d80f39e1001f6989c287a9eb2a592d03e562bc03b00aeb1844d87c5d4de549fb8587273517bbb2a27e076cbe27ef36ad15af</hash>
+    <hash type="sha-256">872a72e96098d3c1a8232989541364259903d0ca5969fc645c89638e56b3cd70</hash>
+    <hash type="sha-1">f05b0393fe74b5187f36c2cd529130845b019bfb</hash>
+    <hash type="md5">3db3d539ec5803bb910dba1308a5a0a3</hash>
+    <size>20938</size>
+    <url>https://bosh-gce-light-stemcells.s3-accelerate.amazonaws.com/315.183/light-bosh-stemcell-315.183-google-kvm-ubuntu-xenial-go_agent.tgz</url>
+    <version>315.183</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2020-05-05T22:28:23.088263228Z</published>
+</metalink>
