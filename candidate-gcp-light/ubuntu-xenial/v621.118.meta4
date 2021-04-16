@@ -1,13 +1,13 @@
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="light-bosh-stemcell-621.118-google-kvm-ubuntu-xenial-go_agent.tgz">
-    <hash type="sha-512">9f5b30626447164d9fc722f81ac6be427dd95f08c6783018fbb0939a0022bad171e8f902a65ba25151c63df9b75c8b6525137c9d152813752cc5c595b815edab</hash>
-    <hash type="sha-256">6117d8c4626b08dc1c69ec466e8723db8b992829e0496e6576c18c6f7029150f</hash>
-    <hash type="sha-1">4f9d8dd1aafb06f8dc5a5942de39d5b6dea945da</hash>
-    <hash type="md5">f58cb476819a50c7bf6bfb20db9242e9</hash>
-    <size>19987</size>
+    <hash type="sha-512">ec01c641e8fb6dd36d9d8bd295440b488253011e044c20649b8c1cdaa1643fdd16120cd11add42e2b5d3a8f56de39414e47a96fbf76399afe8b33772eb473c45</hash>
+    <hash type="sha-256">f6f5799d8f2a861f1c22dae3e56d9e8d4dc50db8daca332dac3045a2061c40b3</hash>
+    <hash type="sha-1">9f0318f3a5a68b9d337daaed1edb258babaac0b6</hash>
+    <hash type="md5">682fd8748daf7c95da274cb1dc5d8590</hash>
+    <size>19983</size>
     <url>https://s3.amazonaws.com/bosh-gce-light-stemcells-candidate/621.118/light-bosh-stemcell-621.118-google-kvm-ubuntu-xenial-go_agent.tgz</url>
     <version>621.118</version>
   </file>
   <generator>metalink-repository-resource/0.0.0</generator>
-  <published>2021-04-13T20:31:54.923821453Z</published>
+  <published>2021-04-16T00:19:31.809761136Z</published>
 </metalink>
