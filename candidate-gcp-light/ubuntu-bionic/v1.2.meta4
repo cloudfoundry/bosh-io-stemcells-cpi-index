@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-1.2-google-kvm-ubuntu-bionic-go_agent.tgz">
+    <hash type="sha-512">f38bcded05c76545eeffc6a476c62a3c620c694eb7f10b9fa98511e76559905c4d13f0686ab18e8327be6273a2f92ad0e8cc8270205150d6196f478b399334b5</hash>
+    <hash type="sha-256">1e305f0c52511b16ab2a526c2864d0f29fe007aa46882056b7c389d96c74ec05</hash>
+    <hash type="sha-1">21ef55d0f9853dee4f337077cd85102567742a2d</hash>
+    <hash type="md5">4fa6754213e78fd4fa409a42f484dca5</hash>
+    <size>20008</size>
+    <url>https://s3.amazonaws.com/bosh-gce-light-stemcells-candidate/1.2/light-bosh-stemcell-1.2-google-kvm-ubuntu-bionic-go_agent.tgz</url>
+    <version>1.2</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-05-10T14:59:51.122917848Z</published>
+</metalink>
