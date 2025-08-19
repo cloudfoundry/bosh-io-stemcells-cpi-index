@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-1.67-aws-xen-hvm-ubuntu-noble.tgz">
+    <hash type="sha-512">fdf6ab19eb5902d48a1aa3a642153f2be8bf7057d42f2ae96f19fd52f22a151894c06f31b9046d8e8946848f23e0d6c39f01a8a324dcf9007ff8c8fc28926a27</hash>
+    <hash type="sha-256">7471ac0c5cd78ba072a321619917b0aa8ec1790920422bd2e45375b468c614da</hash>
+    <hash type="sha-1">2f8bdd82c1a3b70686fb8173288b13372053d24d</hash>
+    <hash type="md5">ee9c09e7825ee2a9509d6e7c2ada6f6e</hash>
+    <size>6798812</size>
+    <url>https://storage.googleapis.com/bosh-aws-light-stemcells-candidate/1.67/light-bosh-stemcell-1.67-aws-xen-hvm-ubuntu-noble.tgz</url>
+    <version>1.67</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2025-08-19T02:08:49.787856981Z</published>
+</metalink>
