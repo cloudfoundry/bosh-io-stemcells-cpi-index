@@ -1,13 +1,13 @@
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="light-bosh-stemcell-1.1045-google-kvm-ubuntu-jammy-go_agent.tgz">
-    <hash type="sha-512">b2a093a7eae7ec58d1b1a84fcd79ff69dac3f667bdc5eeb39726ebeecdbf50fad79e5789d5f98c2dbe03af1b774bf4399e742bebafd140964a8813698af08113</hash>
-    <hash type="sha-256">4bf12423e3af7a616209f6805a634399eca45ef51b96f2303a504bfbf93ab13d</hash>
-    <hash type="sha-1">4b870aec4a235cff28a460ed6cc9948342aa383c</hash>
-    <hash type="md5">6dda5cda783aad5043d6bee79e5df182</hash>
-    <size>13388185</size>
+    <hash type="sha-512">09cec788118f0ee0014481fadf8fb1949be27635d41d5ccc89e85e637c4dd0d1ceecdcb84bf0266365da83d5b5bd655ce818dce0d9f3d6a516ef93d7a7b14d16</hash>
+    <hash type="sha-256">68fb224c59a4e266439766ec9f7a18057ca8f1b983f23d1f8e2af7c189d6d7f7</hash>
+    <hash type="sha-1">521bed82f732bdac9b3f61f0522f5b6400d0ed31</hash>
+    <hash type="md5">4d2fc483adf4f16970820408528419d6</hash>
+    <size>13388190</size>
     <url>https://storage.googleapis.com/bosh-gce-light-stemcells-candidate/1.1045/light-bosh-stemcell-1.1045-google-kvm-ubuntu-jammy-go_agent.tgz</url>
     <version>1.1045</version>
   </file>
   <generator>metalink-repository-resource/0.0.0</generator>
-  <published>2026-02-06T00:40:38.633361735Z</published>
+  <published>2026-02-06T22:16:44.013496895Z</published>
 </metalink>
