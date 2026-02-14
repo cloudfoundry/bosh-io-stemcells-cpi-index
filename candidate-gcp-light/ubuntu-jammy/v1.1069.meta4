@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-1.1069-google-kvm-ubuntu-jammy-go_agent.tgz">
+    <hash type="sha-512">41b8414a9e8fe9989ac9503435c44ec8567a7fb69abbfc147af3b3e606482588d635728a5d2a661bfcdc797746f7e4d244a357bebf60264a6196011d8dd684f8</hash>
+    <hash type="sha-256">31cc8c0fa42dc38ec266219fb3ec44ae7bd6e2f968c9abc1e81eea36d638866e</hash>
+    <hash type="sha-1">739757103b332aae0c351a1904698d7363035e3a</hash>
+    <hash type="md5">f04b45f2c4fd9108287bf682b78bb685</hash>
+    <size>13388895</size>
+    <url>https://storage.googleapis.com/bosh-gce-light-stemcells-candidate/1.1069/light-bosh-stemcell-1.1069-google-kvm-ubuntu-jammy-go_agent.tgz</url>
+    <version>1.1069</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2026-02-14T13:38:36.945856661Z</published>
+</metalink>
