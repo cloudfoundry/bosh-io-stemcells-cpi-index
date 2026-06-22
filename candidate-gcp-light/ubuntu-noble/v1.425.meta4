@@ -1,13 +1,13 @@
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="light-bosh-stemcell-1.425-google-kvm-ubuntu-noble.tgz">
-    <hash type="sha-512">0f5f8f573159eb85d89fd1662ce7f8c1f33976da799d15a1a6886d6f23104b8bc2eeb164ca71e01f95e0a07fe3497a6d92accd2c163d179c76d2d945520149a3</hash>
-    <hash type="sha-256">aa2a9e563fa8e46b071b68bc934550bbdd9d6e26d860ddc7b1f4c199a2675a05</hash>
-    <hash type="sha-1">ff9d6170ed6e43c7b7c4d9dd650049152fa2dbe2</hash>
-    <hash type="md5">46546f2630d19faade3769c09277378f</hash>
-    <size>14062926</size>
+    <hash type="sha-512">40fe589985a7227e8ff1aef58a3234e88e6f39c0a27c32032fdc21edefb15ec9ddfd2b10b374920c719e744a70bcf3bb0d78c64500f87b705f613e1e1f1a3161</hash>
+    <hash type="sha-256">2aa8fb08fb22c4f2d1a94047902137e6aae0d765ce26e28ab128306d298cf482</hash>
+    <hash type="sha-1">e56fd263134bd7f757a18663d7cbaba0e81520da</hash>
+    <hash type="md5">f075fb847eff626d65452f751a705134</hash>
+    <size>14062931</size>
     <url>https://storage.googleapis.com/bosh-gce-light-stemcells-candidate/1.425/light-bosh-stemcell-1.425-google-kvm-ubuntu-noble.tgz</url>
     <version>1.425</version>
   </file>
   <generator>metalink-repository-resource/0.0.0</generator>
-  <published>2026-06-18T23:48:55.903464425Z</published>
+  <published>2026-06-22T23:12:39.441923969Z</published>
 </metalink>
